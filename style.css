@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:900|Montserrat|Open+Sans:800|Permanent+Marker&display=swap');
+	 	h1{
+	 		font-family: 'Montserrat', sans-serif;
+			font-family: 'Open Sans', sans-serif;
+			font-family: 'Exo', sans-serif;
+			font-family: 'Permanent Marker', cursive;
+			text-align: center;
+			color: white;
+			letter-spacing: 5px;
+			font-size: 25px;
+		
+	 	   }
+
+	 	p{
+	 		font-family: 'Montserrat', sans-serif;
+			font-family: 'Open Sans', sans-serif;
+			font-family: 'Exo', sans-serif;
+			font-family: 'Permanent Marker', cursive;
+			text-align: center;
+			color: white;
+			letter-spacing: 1px;
+			font-size: 22px;
+
+	 	}	
+	 	body{
+	 		background: url("pc_Headphones.jpg") fixed center center ;
+	 		background-size: cover;
+	 		}
+	 
+	 	
+	 	.my{
+	 		width: 150px;
+			border-radius: 100%;
+			border: 5px solid white;
+			margin-top: 10%;
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+	 	}
+	 	h2{
+	 		color:lime;
+	 	}
